@@ -1,6 +1,6 @@
 ## 🐱‍👤 Caio Dario
 
-* Graduando de Análise e Desenvolvimento de Sistemas
+* Graduando do curso de Análise e Desenvolvimento de Sistemas
 * Desenvolvedor de software
 * Entusiasta e completamente apaixonado por tecnologia
 
