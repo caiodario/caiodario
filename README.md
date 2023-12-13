@@ -15,7 +15,7 @@ Sou desenvolvedor backend, apaixonado por JavaScript, atualmente trabalho com No
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=,js,ts,nestjs,nodejs,vue,postgres,mongodb,aws&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,java,js,ts,nodejs,postgres,mongodb,aws&perline=15)](https://skillicons.dev)
 
 ---
 
